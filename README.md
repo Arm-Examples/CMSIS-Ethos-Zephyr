@@ -167,7 +167,7 @@ To build with Arm Compiler 6, replace `GCC` with `AC6` in all three build
 commands. Both solutions and their CI workflows load `zephyr.hex` into the FVP.
 
 > [!NOTE]
-> On macOS, follow the instructions in the [FVPs-on-Mac](https://github.com/Arm-Examples/FVPs-on-Mac) repository.
+> On macOS, follow the instructions in the [FVPs-on-Mac](https://github.com/Arm-Examples/FVPs-on-Mac) repository to be able to run simulation models in a Docker container.
 
 ### Expected output
 
