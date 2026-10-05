@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/Arm-Examples/CMSIS-Ethos-Zephyr?label)](https://github.com/Arm-Examples/CMSIS-Ethos-Zephyr/blob/main/LICENSE)
+[![Build all variants](https://img.shields.io/github/actions/workflow/status/Arm-Examples/CMSIS-Ethos-Zephyr/test-ethos-u.yml?logo=arm&logoColor=0091bd&label=Test%20Ethos-U%20Zephyr)](https://github.com/Arm-Examples/CMSIS-Ethos-Zephyr/actions/workflows/test-ethos-u.yml)
+
 # Zephyr Ethos-U55 Integration Test
 
 This repository demonstrates how to build and run a Zephyr application that
